@@ -1,0 +1,31 @@
+# Keil build output
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.uvoptx
+keil_*.log
+
+# RTE pack files (downloaded by Keil)
+RTE/Device/
+
+# Compiled objects
+*.o
+*.d
+*.dep
+*.lst
+*.htm
+*.map
+*.axf
+*.elf
+*.bin
+*.hex
+*.sct
+*.lnp
+*.build_log.htm
+
+# Qt / other
+*.pro.user*
+release/
+debug/
+build-*/
